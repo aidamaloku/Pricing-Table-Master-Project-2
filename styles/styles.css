@@ -29,19 +29,18 @@ body {
     color: #4D5562;
 }
 
-/*-main-section & grid-*/
+/*-main & grid-container-*/
 
 .main-container {
     display: flex;
     justify-content: center;
     text-align: center;
-
     margin-top: 50px;
 }
 
 .grid-container {
     display: grid;
-    grid-template-columns: 200px 200px 200px 200px 200px;  
+    grid-template-columns: 250px 250px 250px 250px 250px;  
 }
 
 /*CSS for cells*/
@@ -57,18 +56,18 @@ body {
 }
 
 .first-feature-cell {
-    border-top-left-radius: 15px;                            /*border-radius only for first and last feature-cell*/
+    border-top-left-radius: 20px;                            /*border-radius only for first and last feature-cell*/
 }
 
 .last-feature-cell {
-    border-bottom-left-radius: 15px;                         /*border-radius only for first and last feature-cell*/
+    border-bottom-left-radius: 20px;                         /*border-radius only for first and last feature-cell*/
 }
 
 
-/*feature-cells*/
+/*plan-header-cells*/
 .type {
     color: #263FA9;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 16px;
 }
 
@@ -78,11 +77,11 @@ body {
     margin: 0;
 }
 
-.feature-header {
+.plan-header {
     margin-bottom: 20px;
 }
 
-.plan-header-popular {
+.plan-header-popular {                                      /*popular*/
     background-color: #121826;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
@@ -92,38 +91,30 @@ body {
     align-items: center;
 }
 
-.type-popular {
+.type-popular {                                             /*popular*/
     color: white;
     font-weight: 400;
     font-size: 16px;
-    border-radius: 15px;
+    border-radius: 20px;
     background-color: #263FA9;
     padding: 5px 12px ;
     margin-top: 15px;
     margin-bottom: 5px;
 }
 
-.price-popular {
+.price-popular {                                            /*popular*/
     font-size: 64px;
     font-weight: 400;
     margin: 0;
     color: white;
 }
 
-.period-popular {
+.period-popular {                                           /*popular*/
     padding: 16px 0;
     color: white;
     font-weight: 400;
     margin-top: 0;
 }
-
-
-
-
-
-
-
-
 
 
 
@@ -158,6 +149,6 @@ body {
 .last-value-cell-popular {                                     /*popular*/
     background-color: #7C4F1E;
     color: white;
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
