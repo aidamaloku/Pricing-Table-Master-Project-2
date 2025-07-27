@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Pricing-Table-Master-Project-2} | devChallenges</h1>
+<h1 align="center">Pricing-Table-Master-Project-2 | devChallenges</h1>
 
 <div align="center">
    Solution for a challenge <a href="https://devchallenges.io/challenge/pricing-table-section-challenge" target="_blank">Pricing Table</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://project-2-pricing-table-master.netlify.app/}">
+    <a href="https://project-2-pricing-table-master.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://github.com/aidamaloku/Pricing-Table-Master-Project-2}">
+    <a href="https://github.com/aidamaloku/Pricing-Table-Master-Project-2">
       Solution
     </a>
     <span> | </span>
