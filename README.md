@@ -1,5 +1,3 @@
-<!-- Please update value in the {}  -->
-
 <h1 align="center">Pricing-Table-Master-Project-2 | devChallenges</h1>
 
 <div align="center">
