@@ -34,6 +34,7 @@
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 - [Note](#note)
+- [Reflection & Progress](#reflection-&-progress)
 
 <!-- OVERVIEW -->
 
@@ -72,6 +73,6 @@ The course I took at Digital Learning Hub laid the foundation for my understandi
 
 - GitHub [@aidamaloku](https://github.com/aidamaloku)
 
-## Note
+## Reflection & Progress
 
 Compared to my last project, I’m more satisfied with the overall HTML structure in this one—it feels cleaner and more organised. Additionally, my CSS is much more comprehensible and organised, making the styling easier to maintain and adjust.
