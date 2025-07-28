@@ -10,10 +10,6 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/aidamaloku/Pricing-Table-Master-Project-2">
-      Solution
-    </a>
-    <span> | </span>
     <a href="https://devchallenges.io/challenge/pricing-table-section-challenge">
       Challenge
     </a>
